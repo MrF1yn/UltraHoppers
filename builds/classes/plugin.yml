@@ -1,0 +1,6 @@
+name: UltraHoppers
+version: '1.0-SNAPSHOT'
+main: xyz.vectlabs.ultrahoppers.UltraHoppers
+api-version: 1.13
+authors: [ MrFlyn ]
+description: A Hopper Utility Plugin

@@ -1,0 +1,7 @@
+hopper-tiers:
+  "I":
+    display-name: "&aTier-I Hopper"
+    cost: ""
+    weight: 1
+    filter-capacity: 5
+    max-item-per-cycle: 5

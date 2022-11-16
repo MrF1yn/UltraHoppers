@@ -1,0 +1,6 @@
+name: UltraHoppers
+version: '${project.version}'
+main: xyz.vectlabs.ultrahoppers.UltraHoppers
+api-version: 1.13
+authors: [ MrFlyn ]
+description: A Hopper Utility Plugin
